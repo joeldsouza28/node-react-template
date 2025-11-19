@@ -8,6 +8,7 @@ updates:
     open-pull-requests-limit: 10
     groups:
       npm-all:
+        applies-to: security-updates
         patterns:
           - "*"
     labels:
