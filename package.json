@@ -121,7 +121,7 @@
     "remark-lint": "^9.1.0",
     "remark-preset-lint-recommended": "^6.1.1",
     "sinon": "^13.0.1",
-    "style-loader": "^3.3.1",
+    "style-loader": "^4.0.0",
     "ts-loader": "^9.4.1",
     "ts-node": "^10.9.1",
     "tsc-watch": "^5.0.3",
